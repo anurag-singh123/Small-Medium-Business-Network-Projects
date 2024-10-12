@@ -1,0 +1,6 @@
+VLAN Segmentation for Different Departments
+Load Balancing and Link Aggregation (LACP)
+Dynamic Routing Protocols (RIP, EIGRP)
+Wireless Network Setup for Guests and Employees
+Network Address Translation (NAT) and Port Forwarding
+Network Redundancy and Failover (HSRP, VRRP)
